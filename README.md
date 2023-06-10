@@ -15,10 +15,16 @@
 ### I.	Thiết kế Data warehouse và  ETL
 #### 1. Thiết kế Data warehouse
 **Lựa chọn lược đồ**
+
 Chọn snowflake schema
+
 **Xây dựng các bảng Dimension**
 
+
+
 **Xây dựng các bảng Fact**
+
+
 #### 2. ETL
 ### II.	Tạo Dashboard bằng Power BI
 
