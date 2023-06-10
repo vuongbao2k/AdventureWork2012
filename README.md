@@ -31,6 +31,18 @@ Các dimension cần tạo : **Nhân viên, Khu vực, Sản phẩm,  Nhóm sả
 
 **Xây dựng các bảng Fact**
 
+- Báo cáo doanh số theo từng nhân viên => **Doanh số**
+- Báo cáo doanh số theo từng khu vực => **Doanh số**
+- Báo cáo số đơn hàng theo nhân viên =>  **Số đơn hàng**
+- Báo cáo số đơn theo khu vực => **Số đơn hàng**
+- Báo cáo số lượng bán ra theo nhóm sản phẩm  => **Số lượng sản phẩm**
+- Báo cáo số lượng bán ra theo sản phẩm và khu vực => **Số lượng sản phẩm**
+
+Báo cáo 1, 2, 3, 4 gộp thành **Fact_SalesOrder**
+
+Báo cáo 5, 6  gộp thành **Fact_Product**
+
+<img src="img/diagram.png">
 
 #### 2. ETL
 ### II.	Tạo Dashboard bằng Power BI
