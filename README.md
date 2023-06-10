@@ -57,7 +57,7 @@ Load các bảng Dimension từ Data source vào vùng Staging
 <img src="img/LoadStagLv1.png">
 <img src="img/LoadStagLv2.png">
 <img src="img/LoadStagLv3.png">
-<img src="img/LoadStagLv4.png">
+<img src="img/LoadStaglv4.png">
 
 Transform dữ liệu vào các bảng Fact của vùng Staging
 
