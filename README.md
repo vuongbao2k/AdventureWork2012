@@ -82,3 +82,5 @@ Truncate các dữ liệu không cần thiết ở vùng Stag
 
 ### II.	Tạo Dashboard bằng Power BI
 
+<img src="SalesReport.png">
+
